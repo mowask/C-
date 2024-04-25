@@ -1,0 +1,5 @@
+﻿  Date.cpp
+  L7.cpp
+C:\C++\OOP7\String.h(23,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  OOP7.vcxproj -> C:\C++\OOP7\x64\Debug\OOP7.exe

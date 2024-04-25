@@ -1,0 +1,5 @@
+﻿  DynArr.cpp
+  L9 main.cpp
+C:\C++\OOP9\L9 main.cpp(72,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  OOP9.vcxproj -> C:\C++\OOP9\x64\Debug\OOP9.exe
