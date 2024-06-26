@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lesson 36 Pattern Composite.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lesson 36 Pattern Composite.cpp
+  Observer.cpp
+  Radio.cpp
+  SMS.cpp
+  WeatherStation.cpp
+  Создание кода...
+  Lesson 36 Pattern Composite.vcxproj -> C:\Users\Студент.TOP\source\repos\Lesson 36 Pattern Composite\x64\Debug\Lesson 36 Pattern Composite Decorator.exe
